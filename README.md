@@ -1,4 +1,4 @@
-![Data Analyst Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![Data Analyst](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-806.jpg)
 
 # 📊 DATA ANALYST
 ### SQL | Python | Power BI | Excel
