@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=DATA%20ANALYST%20%7C%20SQL%20%7C%20PYTHON%20%7C%20POWER%20BI&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+![Data Analyst Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+# 📊 DATA ANALYST
+### SQL | Python | Power BI | Excel
+Turning Data into Insights 📈
 
 # 📊 SQL Online Bookstore Analysis
 
