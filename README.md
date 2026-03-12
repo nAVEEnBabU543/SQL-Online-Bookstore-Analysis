@@ -1,3 +1,5 @@
+![SQL Analysis Banner](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-811.jpg)
+
 # 📊 SQL Online Bookstore Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
