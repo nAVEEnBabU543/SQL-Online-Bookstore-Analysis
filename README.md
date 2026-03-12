@@ -1,4 +1,4 @@
-![Data Analyst](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-806.jpg)
+![SQL Online Bookstore Analysis](images/sql_banner.png)
 
 # 📊 DATA ANALYST
 ### SQL | Python | Power BI | Excel
