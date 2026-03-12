@@ -1,4 +1,4 @@
-![SQL Analysis Banner](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-811.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=DATA%20ANALYST%20%7C%20SQL%20%7C%20PYTHON%20%7C%20POWER%20BI&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 # 📊 SQL Online Bookstore Analysis
 
